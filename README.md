@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sheharyar Smadil
+# 👋 Hey, I'm Sheharyar SM Adil
 
 ### 🚀 Manager | Full Stack Developer | UI/UX Enthusiast
 
