@@ -22,9 +22,7 @@
 
 ## 🌐 Connect With Me
 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon\&logoColor=white)](https://mastodon.social/@Sheharyar%20SM%20Adil)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:sheharyarsmadil@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sheharyar_adil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheharyar-s-m-adil-534898151)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheharyarsmadil@gmail.com) 
 ---
 
 # 💻 Tech Stack:
