@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Programming isn’t about what you know; it’s about what you can figure out. Every challenge is an opportunity to innovate and grow."”
+> “"Every bug you fix is a step closer to brilliance; embrace challenges as the code that refines your mastery."”
 
 ---
 
