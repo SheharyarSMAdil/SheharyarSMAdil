@@ -38,7 +38,9 @@
 
 ## 💡 Dev Philosophy
 
-> “Good code works. Great code feels invisible.”
+> “"Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+Keep your code clean and meaningful, and the challenges will become stepping stones!”
 
 ---
 
