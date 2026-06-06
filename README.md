@@ -40,7 +40,7 @@
 
 > “"Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-Keep coding, keep improving!”
+Keep your code clean and let it speak for itself!”
 
 ---
 
