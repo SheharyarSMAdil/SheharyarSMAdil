@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Every bug you fix is a step closer to brilliance; embrace challenges as the code that refines your mastery."”
+> “"Code is like humor. When you have to explain it, it’s bad." – Cory House”
 
 ---
 
