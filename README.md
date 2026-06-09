@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Programming isn't about what you know; it's about what you can figure out. Challenges are just opportunities to innovate and grow."”
+> “"Debugging is like being the detective in a crime movie where you are also the murderer." – Filipe Fortes”
 
 ---
 
