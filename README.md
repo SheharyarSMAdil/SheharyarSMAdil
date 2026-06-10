@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Code is like humor. When you have to explain it, it’s bad. Embrace the challenge, refine your craft, and let your work speak for itself."”
+> “"Code is like humor. When you have to explain it, it’s bad." – Cory House”
 
 ---
 
