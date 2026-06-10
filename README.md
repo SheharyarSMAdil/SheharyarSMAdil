@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Debugging is like being the detective in a crime movie where you are also the murderer." – Filipe Fortes”
+> “"Code is like humor. When you have to explain it, it’s bad. Embrace the challenge, refine your craft, and let your work speak for itself."”
 
 ---
 
