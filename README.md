@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine”
+> “"Every great developer you know got there by solving a series of problems they were unprepared for." – Patrick McKenzie”
 
 ---
 
