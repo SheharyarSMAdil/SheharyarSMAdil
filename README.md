@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Every great developer you know got there by solving a series of problems they were unprepared for." – Patrick McKenzie”
+> “"Programming isn’t about what you know; it’s about what you can figure out. Every challenge is an opportunity to innovate and grow."”
 
 ---
 
