@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Challenges are merely the stepping stones to innovation; every bug fixed and every line of code written brings us closer to mastery and success."”
+> “"Debugging is like being the detective in a crime movie where you are also the murderer." – Filipe Fortes”
 
 ---
 
