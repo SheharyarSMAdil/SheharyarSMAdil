@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Programming isn’t about what you know; it’s about what you can figure out. Every challenge is a stepping stone to mastery."”
+> “"Challenges are merely the stepping stones to innovation; every bug fixed and every line of code written brings us closer to mastery and success."”
 
 ---
 
