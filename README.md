@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Code is like humor. When you have to explain it, it’s bad. Keep coding, keep improving, and let your work speak for itself."”
+> “"Code is like humor. When you have to explain it, it’s bad. Keep it simple, keep it smart, and never stop debugging."”
 
 ---
 
