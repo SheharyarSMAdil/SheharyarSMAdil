@@ -38,7 +38,7 @@
 
 ## 💡 Dev Philosophy
 
-> “"Programming isn't about what you know; it's about what you can figure out." – Chris Pine”
+> “"Programming isn’t about what you know; it’s about what you can figure out. Every challenge is an opportunity to grow, innovate, and create something extraordinary."”
 
 ---
 
